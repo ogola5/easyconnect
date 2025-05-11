@@ -1,2 +1,6 @@
 node_modules/
 .env
+private_key.pem
+public_key.pemdocker-composecompose.yml
+.env
+docker-composecompose.yml
